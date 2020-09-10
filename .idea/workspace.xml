@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abaedc3f-0cb3-42cc-9731-0d64b1f073d8" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/jaread/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/jaread/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/news/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/news/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/news/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/newsapi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/jaread/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/newsapi/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/jaread/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/newsapi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/jaread/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/newsapi/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/newsapi/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/jaread/wsgi.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/jaread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jaread.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/news/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/news/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/news/api/urls.py" afterDir="false" />
+>>>>>>> 0fd879e6137c0d11549ebc9de463772a6ad4c5ea
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cjAUl84ilLkxUSdA3EIMkedV0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/news/api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/news/api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/news/api" />
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="D:\Projects\my-own-projects\django\jaread\backend" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abaedc3f-0cb3-42cc-9731-0d64b1f073d8" name="Default Changelist" comment="" />
+      <created>1591031646637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591031646637</updated>
+      <workItem from="1591031647965" duration="344000" />
+      <workItem from="1591032004410" duration="694000" />
+      <workItem from="1591103200248" duration="6658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1785" y="475" key="FileChooserDialogImpl" timestamp="1591166343626">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1785" y="447" key="FileChooserDialogImpl/2560.91.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1591031946421" />
+    <state x="1785" y="475" key="FileChooserDialogImpl/500.1463.1440.822/0.23.2560.1417@0.23.2560.1417" timestamp="1591166343626" />
+    <state x="1507" y="362" key="SettingsEditor" timestamp="1591166347594">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1507" y="335" key="SettingsEditor/2560.91.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1591032302902" />
+<<<<<<< HEAD
+    <state x="1507" y="362" key="SettingsEditor/500.1463.1440.822/0.23.2560.1417@0.23.2560.1417" timestamp="1591104764721" />
+    <state x="1669" y="348" width="672" height="687" key="search.everywhere.popup" timestamp="1591165305743">
+      <screen x="0" y="23" width="2560" height="1417" />
+=======
+    <state x="1507" y="362" key="SettingsEditor/500.1463.1440.822/0.23.2560.1417@0.23.2560.1417" timestamp="1591166347594" />
+    <state x="1669" y="335" width="672" height="660" key="search.everywhere.popup" timestamp="1591111979883">
+      <screen x="0" y="23" width="2560" height="1362" />
+>>>>>>> 0fd879e6137c0d11549ebc9de463772a6ad4c5ea
+    </state>
+    <state x="1669" y="321" width="672" height="678" key="search.everywhere.popup/2560.91.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1591032652381" />
+    <state x="1669" y="348" width="672" height="687" key="search.everywhere.popup/500.1463.1440.822/0.23.2560.1417@0.23.2560.1417" timestamp="1591165305743" />
+    <state x="1669" y="335" width="672" height="660" key="search.everywhere.popup/500.1463.1440.877/0.23.2560.1362@0.23.2560.1362" timestamp="1591111979883" />
+  </component>
+</project>
